@@ -31,15 +31,12 @@ toystory = Movie('Toy Story','movie stroyline','movie poster link','movie youtub
 print(toystory.title)
 ```
 This will create a instance of a movie.
-```
-Toy Story
-```
-
 
 ### 2. fresh_tomatoes.py
 This file is provided by Udacity.
 [Click Here](https://github.com/udacity/ud036_StarterCode) for original file.
-I have made changes in it.
+I have made changes in its HTML and CSS.
 
 ### 3. movie_trailer.py
-In this the data is been extracted with help of the API provided by [The Movie DB](https://developers.themoviedb.org/3/) 
+In this the movie data is been extracted with help of the API provided by [The Movie DB](https://developers.themoviedb.org/3/) 
+
