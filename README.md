@@ -38,5 +38,5 @@ This file is provided by Udacity.
 I have made changes in its HTML and CSS.
 
 ### 3. movie_trailer.py
-In this the movie data is been extracted with help of the API provided by [The Movie DB](https://developers.themoviedb.org/3/) 
-
+In this the movie data is being provided by the API [The Movie DB](https://developers.themoviedb.org/3/) 
+> get_data(): It will get the movie data and ```return``` the list of movie instances
