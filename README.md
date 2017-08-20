@@ -53,7 +53,7 @@ In this the movie data is being provided by the API [The Movie DB](https://devel
 
 ## To Run
 To run this project execute the movie_trailer.py file
-**or**
+<br>**or**<br>
 To run on python shell
 ```
 >>> import movie_trailer
