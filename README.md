@@ -35,7 +35,7 @@ This will create a instance of a movie.
 ### 2. fresh_tomatoes.py
 This file is provided by Udacity.
 [Click Here](https://github.com/udacity/ud036_StarterCode) for original file.
-I have made changes in its HTML and CSS.
+I have made some changes in its HTML and CSS.
 
 ### 3. movie_trailer.py
 In this the movie data is being provided by the API [The Movie DB](https://developers.themoviedb.org/3/).
