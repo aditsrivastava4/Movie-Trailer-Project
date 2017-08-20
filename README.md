@@ -42,4 +42,4 @@ This file is provided by Udacity.
 I have made changes in it.
 
 ### 3. movie_trailer.py
-In this the data is been extracted with help of the API provided by [The Movie DB](https://developers.themoviedb.org/) 
+In this the data is been extracted with help of the API provided by [The Movie DB](https://developers.themoviedb.org/3/) 
