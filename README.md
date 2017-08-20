@@ -35,6 +35,7 @@ This will create a instance of a movie.
 ### 2. fresh_tomatoes.py
 This file is provided by Udacity.
 [Click Here](https://github.com/udacity/ud036_StarterCode) for original file.
+It creates the html file of the webpage.
 I have made some changes in its HTML and CSS.
 
 ### 3. movie_trailer.py
@@ -49,3 +50,11 @@ In this the movie data is being provided by the API [The Movie DB](https://devel
 > Parameters
 > file_name: Poster file name provided by the API(string type)
 > 
+
+## To Run
+To run this project execute the movie_trailer.py file
+**or**
+To run on python shell
+```
+>>> import movie_trailer
+```
