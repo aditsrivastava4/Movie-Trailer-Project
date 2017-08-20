@@ -38,5 +38,14 @@ This file is provided by Udacity.
 I have made changes in its HTML and CSS.
 
 ### 3. movie_trailer.py
-In this the movie data is being provided by the API [The Movie DB](https://developers.themoviedb.org/3/) 
-> get_data(): It will get the movie data and ```return``` the list of movie instances
+In this the movie data is being provided by the API [The Movie DB](https://developers.themoviedb.org/3/).
+> get_data(): It will get the movie data and ```return``` the list of movie instances.
+> 
+> get_trailer_link(movie_id): It will take the movie_id and ```return``` the youtube trailer link.
+> Parameters
+> movie_id: Movie ID provided by the API(string type)
+> 
+> get_poster_link(file_name): Will take the file name and ```return``` file link/path.
+> Parameters
+> file_name: Poster file name provided by the API(string type)
+> 
