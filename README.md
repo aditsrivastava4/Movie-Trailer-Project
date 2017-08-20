@@ -6,3 +6,5 @@ This project is to create a webpage to show movie title, poster & trailer.The we
 * media.py
 * fresh_tomatoes.py
 * movie_trailer.py
+
+### 1- media.py
