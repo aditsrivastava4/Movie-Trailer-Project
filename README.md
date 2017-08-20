@@ -16,14 +16,10 @@ This project is to create a webpage to show movie title, poster & trailer.The we
 > 
 > Parameters
 > 
-> **title**:                  str
->                         Title of the Movie
+> **title**: Title of the Movie(string type)
 > 
-> **storyline**:              str
->                         Storyline of the Movie
+> **storyline**:  Storyline of the Movie(string type)
 > 
-> **poster_image_url**:       str
->                         Poster Image link of the Movie
+> **poster_image_url**: Poster Image link of the Movie(string type)
 > 
-> **trailer_youtube_url**:    str
->                         Trailer Link of the Movie
+> **trailer_youtube_url**: Trailer Link of the Movie(string type)
