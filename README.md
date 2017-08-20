@@ -21,7 +21,7 @@ This project is to create a webpage to show movie title, poster & trailer.The we
 > 
 > **storyline**:              str
 >                         Storyline of the Movie
-
+> 
 > **poster_image_url**:       str
 >                         Poster Image link of the Movie
 > 
